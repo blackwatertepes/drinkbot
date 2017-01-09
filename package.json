@@ -1,0 +1,17 @@
+{
+  "name": "drinkbot",
+  "version": "1.0.0",
+  "description": "Robot prepared cocktails!",
+  "main": "src/app.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "johnny-five": "^0.10.6",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'Tyler J. Kuhn'",
+  "license": "ISC"
+}
